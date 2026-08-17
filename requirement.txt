@@ -1,0 +1,14 @@
+pillow
+pyttsx3
+SpeechRecognition==3.8.1
+requests
+beautifulsoup4
+pint
+psutil
+pyautogui
+PyAudio==0.2.11
+pytube
+pygame
+youtubesearchpython
+mysql-connector-python
+# optional: PyAudio==0.2.11 for microphone support on Windows
